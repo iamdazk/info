@@ -5,11 +5,11 @@ app.controller('myController', function($scope) {
 	$scope.verify = "Verify";
 	$scope.des = "i am Dazk !";
 	$scope.cv = "JOB";
-	$scope.job1 = "NHIẾP ẢNH IT HUTECH";
-	$scope.job2 = "ai.marketing";
+	$scope.job1 = "📷NHIẾP ẢNH IT HUTECH";
+	$scope.job2 = "💸ai.marketing";
 	$scope.contact = "Thông tin liên lạc";
-	$scope.contact1 = "phungxuandoan2001@gmail.com";
-	$scope.contact2 = "fb.com/l92.l68.08.05/";
+	$scope.contact1 = "📧phungxuandoan2001@gmail.com";
+	$scope.contact2 = "📲fb.com/l92.l68.08.05/";
 	$scope.contactmi = "CONTACT ME";
 	$scope.ifyou = "Nếu có thắc mắc gì thì liên hệ mình !";
 	$scope.modal1 = "Facebook";
