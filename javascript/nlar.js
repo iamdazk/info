@@ -17,9 +17,9 @@ app.controller('myController', function($scope) {
 	$scope.modal3 = "Youtube";
 	$scope.modal4 = "Email";
 	$scope.modal5 = "Sms";
-	$scope.linkfb = "fb.com/l92.l68.08.05/";
-	$scope.linkzl = "zalo.me/0784806372";
-	$scope.linksc = "www.youtube.com/channel/UCT_aNTdiNGQXyM2aHOVaajQ";
+	$scope.linkfb = "https://fb.com/l92.l68.08.05/";
+	$scope.linkzl = "https://zalo.me/0784806372";
+	$scope.linksc = "https://www.youtube.com/channel/UCT_aNTdiNGQXyM2aHOVaajQ";
 	$scope.linkgm = "kanpitest@gmail.com";
 	$scope.phonenumber = "0784806372 - MOBIPHONE";
 	$scope.email = "phungxuandoan2001@gmail.com";
